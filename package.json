@@ -1,0 +1,19 @@
+{
+  "name": "capital-cost-cryptocurrency",
+  "version": "0.0.1",
+  "description": "this application do fetch transaction and calculate capital price for sell cryptocurrency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/minatorak/capital-cost-cryptocurrency.git"
+  },
+  "author": "Sirirak buncharoensawat",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/minatorak/capital-cost-cryptocurrency/issues"
+  },
+  "homepage": "https://github.com/minatorak/capital-cost-cryptocurrency#readme"
+}
